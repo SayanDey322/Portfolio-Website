@@ -250,7 +250,8 @@ export const projects = [
       "https://external-preview.redd.it/i-created-google-gemini-clone-using-react-v0-bGdqZW41djllYWVkMZ-1hQY5SM3B2IS1s16LCdDpldIneC4iVFyhsO-s4Fwn.png?width=640&crop=smart&format=pjpg&auto=webp&s=73761271daa6339147486e98efe0136ba115c347",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "TailwindCSS", "JavaScript", "API"],
     category: "web app",
-    github: "https://github.com/SayanDey322/Gemini-Clone-",
+    github: "https://github.com/SayanDey322/Gemini-Clone",
+    webapp: "https://gemini-clone-rv1k.vercel.app/",
   },
   {
     id: 1,
@@ -268,7 +269,8 @@ export const projects = [
       "API",
     ],
     category: "web app",
-    github: "https://github.com/SayanDey322/Coffee-Webiste",
+    github: "https://github.com/SayanDey322/Coffee-Shop-Website",
+    webapp: "https://coffee-shop-website-plum.vercel.app/",
   },
   {
     id: 4,
@@ -281,6 +283,7 @@ export const projects = [
     tags: ["React Js", "JavaScript", "CSS", "Node JS", "HTML"],
     category: "web app",
     github: "https://github.com/SayanDey322/Tic-Tac-Toe-Pro",
+    webapp: "https://tic-tac-toe-pro-iota.vercel.app/",
   },
   {
     id: 5,
@@ -293,6 +296,7 @@ export const projects = [
     tags: ["React Js", "JavaScript", "TailwindCSS", "Node JS", "HTML", "API"],
     category: "web app",
     github: "https://github.com/SayanDey322/Ecommerce-Website",
+    webapp: "https://ecommerce-website-theta-mocha.vercel.app/",
   },
   {
     id: 6,
