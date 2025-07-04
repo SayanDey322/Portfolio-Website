@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SayanDey322",
   resume:
-    "https://docs.google.com/document/d/1Knmzs0ytWYQ7fwrqnxmHeA4aIp6DWi427KprG2gNSV4/edit?usp=drive_link",
+    "https://drive.google.com/file/d/11O10kxdqpfCmrW__qkwSptbpM76DXRwu/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/sayon-dey-3a0876324/",
   twitter: "https://x.com/deysayan95",
   insta: "https://www.instagram.com/annoyd216/",
