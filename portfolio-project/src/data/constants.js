@@ -88,6 +88,11 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
       },
+      {
+        name: "Django",
+        image:
+          "https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png",
+      },
     ],
   },
   {
@@ -132,37 +137,37 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTV75TG4bbdI8WxgQb33jdeJENAS2kvdcLag&s",
-    role: "Frontend Developer Intern",
-    company: "CodeAlpha",
-    date: "May 2025 - Jun 2025",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
+    img: "https://miro.medium.com/v2/resize%3Afit%3A2400/1%2AZfYWXN0zA6TqQQ7wGNJUOg.jpeg",
+    role: "Contributor",
+    company: "GirlScript Summer of Code 2025 (GSSoC)",
+    date: "July 2025 - Present",
+    desc: "As a Contributor in GirlScript Summer of Code, I actively collaborate on real-world open-source projects, resolving issues, building new features and improving codebases across various repositories. My role involves consistent participation in project discussions, submitting pull requests, reviewing code and contributing to documentation. This experience has strengthened my skills in version control (Git & GitHub), clean coding practices and teamwork within a remote development environment.",
     skills: [
+      "Git",
+      "GitHub",
       "ReactJS",
       "Redux",
       "NodeJs",
-      "HTML",
-      "CSS",
+      "ExpressJS",
       "JavaScript",
     ],
   },
   {
     id: 0,
-    img: "https://user-images.githubusercontent.com/73993775/227628899-c44dd6c1-dc56-4852-b515-2d3261dbff6f.jpg",
-    role: "Web Development Intern",
-    company: "InternPe",
-    date: "June 2025 - Present",
-    desc: "Working on the backend and frontend of the web application using ReactJS, Redux, MongoDB, NextJS and NodeJs. ",
+    img: "https://osconnect.org/darkLogo.png",
+    role: "Contributor",
+    company: "Open Source Connect India 2025 (OSCI)",
+    date: "July 2025 - Present",
+    desc: "As a Contributor in Open Source Connect India, I actively engage with open-source communities to build scalable and impactful solutions. My contributions involve fixing issues, implementing new features and collaborating with project maintainers and fellow contributors. Through this program, I’ve enhanced my skills in Git, GitHub collaboration workflows and full-stack development while contributing to meaningful open-source projects that benefit the wider tech community.",
     skills: [
+      "Git",
+      "GitHub",
       "ReactJS",
       "Redux",
       "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
+      "ExpressJS",
       "JavaScript",
     ],
-    doc: "https://drive.google.com/file/d/1O-kSx3UPxNMsiAXS6N0-Obl-94tEgszN/view?usp=drive_link",
   },
   {
     id: 3,
@@ -172,8 +177,6 @@ export const experiences = [
     date: "Mar 2025 - Present",
     desc: "As a Web developer at the Google Developers Group Club (GDG), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDG, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
     skills: [
-      "Leadership",
-      "Website Development",
       "ReactJS",
       "JavaScript",
       "NextJS",
@@ -183,6 +186,40 @@ export const experiences = [
       "CSS",
       "Tailwind CSS",
       "ExpressJS",
+      "GitHub",
+      "Django",
+
+    ],
+  },
+  {
+    id: 3,
+    img: "https://play-lh.googleusercontent.com/8t6U6HGuMnP1DAJYpb4U_fEwVA7fgaOBJYRyfPHM5OLZllGj-8tsmJhu6Y4ikMrGpZg",
+    role: "Internshala Student Partner(ISP)",
+    company: "Internshala",
+    date: "Jul 2025 - Present",
+    desc: "As an Internshala Student Partner, I serve as the official representative of Internshala at my college. My role involved promoting various internship and training opportunities, organizing awareness drives and encouraging fellow students to upskill through the platform. I developed my leadership, communication and digital marketing skills by engaging peers through online campaigns, social media outreach and campus initiatives—successfully bridging the gap between students and career-building resources.",
+    skills: [
+      "Leadership",
+      "Community Building",
+      "Event Management",
+      "Volunteering"
+    ],
+  },
+  {
+    id: 0,
+    img: "https://user-images.githubusercontent.com/73993775/227628899-c44dd6c1-dc56-4852-b515-2d3261dbff6f.jpg",
+    role: "Web Development Intern",
+    company: "InternPe",
+    date: "June 2025 - Present",
+    desc: "As a Web Development Intern at InternPe, I was responsible for designing and developing responsive web pages using HTML, CSS, JavaScript and modern frameworks. I collaborated on real-time tasks involving frontend development, UI/UX optimization and interactive component integration. During this internship, I honed my skills in clean coding practices, cross-browser compatibility and web performance optimization while working in a deadline-driven environment.",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "NodeJs",
+      "NextJS",
+      "HTML",
+      "CSS",
+      "JavaScript",
     ],
   },
 ];
@@ -193,7 +230,7 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUi5HRuZ8EUlhYEQ5jxHZTadFbt7nLzuJDjw&s",
     school: "Haldia Institute of Technology, Haldia",
     date: "Aug 2024 - July 2028",
-    grade: "8.69 SGPA",
+    grade: "8.48 YGPA",
     desc: "I am currently pursuing a Bachelor's degree in Electronics and Communication Engineering at Haldia Institute of Technology, Haldia. I have completed 2 semesters and have a CGPA of 8.69. I have taken courses in Data Structures, Algorithms among others. I am also a member of the Google Developers Group Club (GDG) at HIT, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Electronics and Communication Engineering",
   },
@@ -218,7 +255,7 @@ export const education = [
 ];
 
 export const projects = [
-  {
+   {
     id: 9,
     title: "NewsMagazine App",
     date: "May 2025",
