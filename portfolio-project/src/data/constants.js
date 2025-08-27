@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SayanDey322",
   resume:
-    "https://drive.google.com/file/d/1dkuIbJeucuT2wMQ6VNko2ak8hepSfPWP/view?usp=drive_link",
+    "https://drive.google.com/file/d/11O10kxdqpfCmrW__qkwSptbpM76DXRwu/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sayon-dey-3a0876324/",
   twitter: "https://x.com/deysayan95",
   insta: "https://www.instagram.com/annoyd216/",
@@ -57,6 +57,11 @@ export const skills = [
         name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+      },
+      {
+        name: "TypeScript",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png",
       },
 
     ],
@@ -135,6 +140,18 @@ export const skills = [
 ];
 
 export const experiences = [
+
+  {
+    id: 0,
+    img: "https://www.alfidotech.com/logo.png",
+    role: "Java Development Intern",
+    company: "Alfido Tech",
+    date: "Aug 2025 - Present",
+    desc: "Working as a Java Development Intern at Alfido Tech, contributing to designing, coding, and debugging Java-based applications. Gaineing hands-on experience in object-oriented programming, database connectivity, and API integration. Collaborated with the development team to enhance system functionality, optimize code performance, and ensure efficient software solutions aligned with client requirements.",
+    skills: [
+      "Java",
+    ],
+  },
   {
     id: 0,
     img: "https://miro.medium.com/v2/resize%3Afit%3A2400/1%2AZfYWXN0zA6TqQQ7wGNJUOg.jpeg",
@@ -203,23 +220,6 @@ export const experiences = [
       "Community Building",
       "Event Management",
       "Volunteering"
-    ],
-  },
-  {
-    id: 0,
-    img: "https://user-images.githubusercontent.com/73993775/227628899-c44dd6c1-dc56-4852-b515-2d3261dbff6f.jpg",
-    role: "Web Development Intern",
-    company: "InternPe",
-    date: "June 2025 - Present",
-    desc: "As a Web Development Intern at InternPe, I was responsible for designing and developing responsive web pages using HTML, CSS, JavaScript and modern frameworks. I collaborated on real-time tasks involving frontend development, UI/UX optimization and interactive component integration. During this internship, I honed my skills in clean coding practices, cross-browser compatibility and web performance optimization while working in a deadline-driven environment.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "NextJS",
-      "HTML",
-      "CSS",
-      "JavaScript",
     ],
   },
 ];
