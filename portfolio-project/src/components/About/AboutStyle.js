@@ -4,7 +4,7 @@ import _default from '../../themes/default';
 
 export const SocialMediaIcons = styled.div`
   display: flex;
-  margin-top: 1rem;
+  margin-top: 1rem; 
 `;
 
 export const SocialMediaIcon = styled.a`
